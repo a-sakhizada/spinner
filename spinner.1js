@@ -38,8 +38,3 @@ setTimeout(() => {
     process.stdout.write('\r|   '); 
   }, 1700);
 
-
-
-  
-  
-  // ... fill in the rest yourself ...
